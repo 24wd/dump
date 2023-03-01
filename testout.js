@@ -1,3 +1,14 @@
+//How to Use:
+
+//Open lab
+//Ctrl + Shift + I 	(Inspect)
+//Click the Check Awnsers Button
+//Click the Mouse top right of your screen and click on score
+//Paste the script into console
+//Keep pasting until seconds is below 60
+//Close Console (Far right X)
+//Take a screenshot and send to netacad
+
 clear();
 console.log('Start Script');
 //Grab Score Text
